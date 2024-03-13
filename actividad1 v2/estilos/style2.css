@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(0, 26, 255);
+    border: 6px dashed red;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 30px;
+}
+
+.link{
+    color: darkgray;
+}
+
+label{
+    color: aqua;
+}
+
+#boton{
+    background-color: red;
+}
+
+.cajita{
+    background-color: darkgray;
+}

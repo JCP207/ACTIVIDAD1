@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(0, 26, 255);
+    border: 6px dashed red;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 30px;
+}
+h2{
+    color: aqua;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.link{
+    color: yellow;
+}
+
+#form{
+    color: darkgray;
+}
